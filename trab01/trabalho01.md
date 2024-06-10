@@ -1,5 +1,10 @@
 # Trabalho 01 - IA
 
+Alunos: Daniel Nunes e Gabriel Assis
+Data: 09/06/2024
+
+Link para o Github com os códigos: [dunanes/ufam-ia](https://github.com/dunanes/ufam-ia/tree/main/trab01)
+
 ## Mundo dos Blocos
 
 ### Explicação
